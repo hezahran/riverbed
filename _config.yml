@@ -1,0 +1,14 @@
+# Site settings
+title: HECreek, Ltd.
+email: social@hecreek.com
+description: > # this means to ignore newlines until "baseurl:"
+Founded in 2014, HECreek is a small web design & development agency based in Alexandria, Egypt & lead by its founder Hashem Zahran. Over the last few years Hashem made a good reputation for building websites that look great, responsive and are easy-to-use.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://hecreek.com" # the base hostname & protocol for your site
+twitter_username: hecreek
+github_username:  hecreek
+source: /Users/Hashem/Sites/hecreek/source
+destination: /Users/Hashem/Sites/hecreek/hecreek.github.io
+
+# Build settings
+markdown: kramdown
