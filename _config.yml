@@ -7,8 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hecreek.com" # the base hostname & protocol for your site
 twitter_username: hecreek
 github_username:  hecreek
-source: /Users/Hashem/Sites/hecreek/source
-destination: /Users/Hashem/Sites/hecreek/hecreek.github.io
+source: /Users/Hashem/Sites/GithunSourceCode/riverbed/
+destination: /Users/Hashem/Sites/hecreek/
 
 # Build settings
 markdown: kramdown
